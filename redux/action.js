@@ -1,0 +1,4 @@
+export const ACTIONS = {
+  ADD_ENTRY: "ADD_ENTRY",
+  RECIVE_ENTRIES: "RECIVE_ENTRIES",
+};
